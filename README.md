@@ -12,9 +12,17 @@
 
 ## comando 
 
+```sh
+# Clona repositorio de Github usando Github-CLI
 gh repo clon USER/REPO
+```
 
+```sh
+# Crear rama NAME
 git switch -c NAME 
+```
 
+```sh
+# Cambiar a rama NAME
 git switch NAME 
-
+```
