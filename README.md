@@ -9,3 +9,12 @@
 ## Git CLI cheat sheet en español
 
 [Hoja de comandos básicos de Git CLI](/[ESPAÑOL]-CLI/README.md)
+
+## comando 
+
+gh repo clon USER/REPO
+
+git switch -c NAME 
+
+git switch NAME 
+
