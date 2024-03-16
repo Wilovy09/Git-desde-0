@@ -4,4 +4,8 @@
 
 ## Cheat sheet en español
 
-[Hoja de comandos básicos de git](/[ESPAÑOL]Git-Cheat-Sheet.md)
+[Hoja de comandos básicos de Git](/[ESPAÑOL]Git-Cheat-Sheet.md)
+
+## Git CLI cheat sheet en español
+
+[Hoja de comandos básicos de Git CLI](/[ESPAÑOL]-CLI/README.md)
