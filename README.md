@@ -26,3 +26,8 @@ git switch -c NAME
 # Cambiar a rama NAME
 git switch NAME 
 ```
+
+```bash
+# este es el comando para recibir cambios del repositorio forkeado
+git pull upstream BRANCH
+```
