@@ -31,3 +31,7 @@ git switch NAME
 # este es el comando para recibir cambios del repositorio forkeado
 git pull upstream BRANCH
 ```
+
+```sh
+git fetch
+```
